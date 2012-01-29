@@ -1,0 +1,5 @@
+If number of clusters (bestk) is too small => use much smaller magnitude of th (last param)
+
+Find out the timestamps and probabilities that a sample belongs to a cluster (indicators)
+Figure out input to Dan's cluster quality check program
+Make peaks plot vs. time
